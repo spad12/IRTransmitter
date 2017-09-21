@@ -1,3 +1,3 @@
 # IRTransmitter
 
-Library for doinog IR transmission using an Arduino.
+Library for doing IR transmission using an Arduino.
